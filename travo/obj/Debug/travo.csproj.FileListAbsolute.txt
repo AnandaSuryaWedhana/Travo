@@ -1,0 +1,83 @@
+C:\Users\USER\source\repos\travo\travo\bin\Debug\travo.exe.config
+C:\Users\USER\source\repos\travo\travo\bin\Debug\travo.exe
+C:\Users\USER\source\repos\travo\travo\bin\Debug\travo.pdb
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.formlogin.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.Properties.Resources.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.exe
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.pdb
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.formsignup.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.Formhome.resources
+C:\Users\USER\source\repos\travo\travo\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\Zstandard.Net.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\Renci.SshNet.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\travo\travo\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.exe.config
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormWT.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormTU.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormP.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormPT.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.Formdestinasi.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.csproj.CopyComplete
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormSS.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormAdminDaerah.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormAdminKategori.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormAdminPaketTour.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.FormAdminPelanggan.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.Formadmin.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.Finsertpakettour.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.Finsertpelanggan.resources
+C:\Users\USER\source\repos\travo\travo\obj\Debug\travo.formloginadmin.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\travo.exe.config
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\travo.exe
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\travo.pdb
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\Zstandard.Net.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\Renci.SshNet.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.exe.config
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.formsignup.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormAdminDaerah.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormAdminKategori.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormAdminPaketTour.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormAdminPelanggan.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.Formadmin.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.Finsertpakettour.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.Finsertpelanggan.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.formloginadmin.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.Formlogin.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.Formhome.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormWT.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormSS.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormTU.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormP.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.FormPT.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.Formdestinasi.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.Properties.Resources.resources
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.csproj.CopyComplete
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.exe
+C:\Users\ASUS\Documents\New folder (4)\travo\travo\obj\Debug\travo.pdb
